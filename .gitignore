@@ -1,0 +1,15 @@
+
+# website -- jekyll
+_site/
+.jekyll-cache/
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# vpc-infrastructure -- terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.backup
+ssh-key.pem
+
